@@ -46,7 +46,11 @@ export default function Footer() {
                             </div>
                             <p className="footer-tagline">The Secret of Tradition</p>
                             <p className="footer-desc">Handcrafted premium masala powders from Kanishka Home Foods, Salem. Bringing authentic flavours to your kitchen for generations.</p>
-                            <a href="https://wa.me/919042081692?text=Hello!%20I%20am%20interested%20in%20your%20masala%20products." target="_blank" rel="noreferrer" className="footer-wa">
+                            <div className="footer-social">
+                                <a href="https://www.facebook.com/profile.php?id=100083466225974" target="_blank" rel="noreferrer" aria-label="Facebook" className="social-fb"><i className="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/shree_vvmasala/" target="_blank" rel="noreferrer" aria-label="Instagram" className="social-ig"><i className="fab fa-instagram"></i></a>
+                            </div>
+                            <a href="https://wa.me/919042081692?text=Hi%2C%20I'm%20interested%20in%20Shree%20VV%20Masala%20products.%20Could%20you%20please%20share%20the%20product%20catalogue%2C%20price%20list%2C%20and%20ordering%20details%3F" target="_blank" rel="noreferrer" className="footer-wa">
                                 <i className="fab fa-whatsapp"></i> WhatsApp Us
                             </a>
                         </div>
@@ -98,7 +102,9 @@ export default function Footer() {
             <div className="footer-bottom">
                 <div className="container">
                     <p>© 2025 <strong>Shree VV Masala</strong> | Kanishka Home Foods, Salem. All rights reserved.</p>
-                    <p className="footer-made">Crafted with ❤️ in Salem, Tamil Nadu</p>
+                    <p className="footer-made">
+                        Designed & Developed by <a href="https://strobilantech.com/" target="_blank" rel="noreferrer" style={{ color: 'var(--gold-light)', fontWeight: '600' }}>Strobilan Technologies</a> <i className="fas fa-heart"></i>
+                    </p>
                 </div>
             </div>
         </footer>

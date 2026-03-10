@@ -4,21 +4,21 @@ const products = [
         badge: 'Top Seller', badgeClass: '',
         name: 'Chilli Powder',
         desc: 'Pure, sun-dried red chillies ground for perfect spice & vibrant color.',
-        wa: 'Hello!%20I%20am%20interested%20in%20Chilli%20Powder%20from%20Shree%20VV%20Masala.',
+        wa: "Hi%2C%20I'm%20interested%20in%20Shree%20VV%20Masala%20products.%20Could%20you%20please%20share%20the%20product%20catalogue%2C%20price%20list%2C%20and%20ordering%20details%3F",
     },
     {
         img: '/chicken 65.png',
         badge: 'Bestseller', badgeClass: 'popular',
         name: 'Chicken 65 Masala',
         desc: 'Traditional secret blend for the perfect, crispy & spicy Chicken 65.',
-        wa: 'Hello!%20I%20am%20interested%20in%20Chicken%2065%20Masala.',
+        wa: "Hi%2C%20I'm%20interested%20in%20Shree%20VV%20Masala%20products.%20Could%20you%20please%20share%20the%20product%20catalogue%2C%20price%20list%2C%20and%20ordering%20details%3F",
     },
     {
         img: '/fish fry.png',
         badge: 'Recommended', badgeClass: 'new-badge',
         name: 'Fish Fry Masala',
         desc: 'The ultimate aromatic coating for a delicious golden fish fry.',
-        wa: 'Hello!%20I%20am%20interested%20in%20Fish%20Fry%20Masala.',
+        wa: "Hi%2C%20I'm%20interested%20in%20Shree%20VV%20Masala%20products.%20Could%20you%20please%20share%20the%20product%20catalogue%2C%20price%20list%2C%20and%20ordering%20details%3F",
     },
 ];
 

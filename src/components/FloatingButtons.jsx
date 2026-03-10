@@ -12,7 +12,7 @@ export default function FloatingButtons() {
     return (
         <>
             <a
-                href="https://wa.me/919042081692?text=Hello%20Shree%20VV%20Masala!%20I%20want%20to%20know%20more%20about%20your%20products%20and%20pricing."
+                href="https://wa.me/919042081692?text=Hi%2C%20I'm%20interested%20in%20Shree%20VV%20Masala%20products.%20Could%20you%20please%20share%20the%20product%20catalogue%2C%20price%20list%2C%20and%20ordering%20details%3F"
                 target="_blank"
                 rel="noreferrer"
                 className="whatsapp-float"
